@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-ARGOD1-1.0.0";
 const contentToCache = [
     "Build/GodLivingPage.loader.js",
-    "Build/GodLivingPage.framework.js.gz",
-    "Build/GodLivingPage.data.gz",
-    "Build/GodLivingPage.wasm.gz",
+    "Build/GodLivingPage.framework.js",
+    "Build/GodLivingPage.data",
+    "Build/GodLivingPage.wasm",
     "TemplateData/style.css"
 
 ];
