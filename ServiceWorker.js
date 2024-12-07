@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-GodLiving-0.1.0";
+const cacheName = "FutureVision-GodLiving-0.1";
 const contentToCache = [
     "Build/GodLivingPage.loader.js",
     "Build/GodLivingPage.framework.js",
